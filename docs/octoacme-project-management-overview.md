@@ -20,6 +20,16 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Extended Roles (as needed)
+For comprehensive project coverage, additional specialized roles may be engaged:
+- Business Analyst: elicits requirements, creates user stories, bridges stakeholders and technical team.
+- UX/UI Designer: designs interfaces, ensures usability and accessibility standards.
+- Technical Architect: defines solution architecture, establishes design patterns and standards.
+- Scrum Master: facilitates Agile ceremonies, coaches team, removes impediments.
+- Support/DevOps Engineer: builds CI/CD pipelines, monitors production, ensures reliability.
+
+See [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md) for detailed responsibilities and interaction models.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
@@ -44,3 +54,7 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- For new team members, refer to [octoacme-role-onboarding-checklist.md](./octoacme-role-onboarding-checklist.md) for role-specific onboarding guidance.
+
+## References
+- Related improvement: [#4 - Process Doc Update: Adding more personas and roles](https://github.com/skerr-slalom/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4)
