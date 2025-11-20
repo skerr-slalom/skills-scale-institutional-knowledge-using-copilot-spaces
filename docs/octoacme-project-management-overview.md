@@ -14,19 +14,19 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- **Project Manager (PM)**: coordinates delivery, schedules, risk, communications.
-- **Product Manager (PdM)**: defines outcomes, prioritizes backlog, and measures success.
-- **Developers**: implement features, collaborate on design and testability.
-- **QA/Testing**: validate quality and acceptance criteria.
-- **Stakeholders**: provide inputs and approvals.
+- Project Manager (PM): coordinates delivery, schedules, risk, communications.
+- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Developers: implement features, collaborate on design and testability.
+- QA/Testing: validate quality and acceptance criteria.
+- Stakeholders: provide inputs and approvals.
 
 ## Extended Roles (as needed)
 For comprehensive project coverage, additional specialized roles may be engaged:
-- **Business Analyst**: elicits requirements, creates user stories, bridges stakeholders and technical team.
-- **UX/UI Designer**: designs interfaces, ensures usability and accessibility standards.
-- **Technical Architect**: defines solution architecture, establishes design patterns and standards.
-- **Scrum Master**: facilitates Agile ceremonies, coaches team, removes impediments.
-- **Support/DevOps Engineer**: builds CI/CD pipelines, monitors production, ensures reliability.
+- Business Analyst: elicits requirements, creates user stories, bridges stakeholders and technical team.
+- UX/UI Designer: designs interfaces, ensures usability and accessibility standards.
+- Technical Architect: defines solution architecture, establishes design patterns and standards.
+- Scrum Master: facilitates Agile ceremonies, coaches team, removes impediments.
+- Support/DevOps Engineer: builds CI/CD pipelines, monitors production, ensures reliability.
 
 See [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md) for detailed responsibilities and interaction models.
 
