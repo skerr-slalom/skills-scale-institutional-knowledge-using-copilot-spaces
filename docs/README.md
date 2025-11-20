@@ -8,10 +8,18 @@ OctoAcme's project management framework is designed to support consistent and tr
 
 Key personas in OctoAcme's workflows include:
 
+**Core Roles:**
 - **Project Managers**: Coordinate delivery and risks across the project lifecycle
 - **Product Managers**: Define outcomes and priorities, ensuring alignment with business goals
 - **Developers**: Responsible for implementation and testing of features
 - **QA or Testing Roles**: Validate completed work against acceptance criteria and quality standards
+
+**Extended Roles** (engaged as needed):
+- **Business Analysts**: Elicit requirements and bridge stakeholders with technical teams
+- **UX/UI Designers**: Design interfaces and ensure usability standards
+- **Technical Architects**: Define solution architecture and technical standards
+- **Scrum Masters**: Facilitate Agile ceremonies and coach teams
+- **Support/DevOps Engineers**: Build CI/CD pipelines and ensure reliability
 
 Clear role definitions ensure accountability and facilitate collaboration throughout the project lifecycle, which spans five primary stages: initiation, planning, execution, release, and retrospective/continuous improvement. Each phase emphasizes its own deliverables and responsibilities, supported by artifacts like risk registers, roadmaps, and retrospective notes.
 
@@ -36,6 +44,11 @@ For more detailed information about specific aspects of OctoAcme's project manag
 - [Project Planning](octoacme-project-planning.md)
 - [Execution and Tracking](octoacme-execution-and-tracking.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
+- [Role Onboarding Checklist](octoacme-role-onboarding-checklist.md) *(New)*
 - [Risks and Communication](octoacme-risks-and-communication.md)
 - [Release and Deployment](octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+
+## Recent Updates
+
+- **2025-11**: Expanded roles and personas to include Business Analyst, UX/UI Designer, Technical Architect, Scrum Master, and Support/DevOps Engineer. Added role-specific onboarding checklist. [Issue #4](https://github.com/skerr-slalom/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4)
